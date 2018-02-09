@@ -1,0 +1,4 @@
+The To Do List (Before):-
+#<TodoList:0x007ffdb6013428 @tasks=[]>
+The To Do List (After):-
+#<TodoList:0x007ffdb6013428 @tasks=[#<Task:0x007ffdb60135e0 @description="Task1", @due_date="20180228">, #<Task:0x007ffdb6013540 @description="Task2", @due_date="20180301">, #<Task:0x007ffdb6013478 @description="Task3", @due_date="20180305">]>
